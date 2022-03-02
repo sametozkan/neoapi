@@ -1,0 +1,242 @@
+﻿++Solution 'NeoApi' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:NeoApi.sln
+++Presantation
+i:{00000000-0000-0000-0000-000000000000}:Presantation
+++WebAPI
+i:{57a70f2a-4732-459d-b8ae-5109182596d1}:WebAPI
+++Connected Services 
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:>550
+++Dependencies
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:>549
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:>311
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:>310
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:>432
+++Analyzers
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:analyzers
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:analyzers
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:analyzers
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:analyzers
+++Frameworks
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:frameworks
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:frameworks
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:frameworks
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:frameworks
+++Packages
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:packages
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:packages
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:packages
+++Projects
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:projects
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:projects
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:projects
+++Application
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\application\application.csproj
+i:{2f8c8b78-0255-44aa-9b0e-edd24dcebe62}:Application
+++Persistence
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\persistence\persistence.csproj
+i:{9bda0d0d-5cda-4d77-b6a3-30797b6d473d}:Persistence
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\persistence\persistence.csproj
+++Properties
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\webapi\properties\
+++Controllers
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\webapi\controllers\
+++UserController.cs
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\webapi\controllers\usercontroller.cs
+++appsettings.json
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\webapi\appsettings.json
+++Program.cs
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\webapi\program.cs
+++No service dependencies discovered
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:>551
+++Microsoft.AspNetCore.Analyzers
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\webapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\webapi\microsoft.netcore.app
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\microsoft.netcore.app
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\microsoft.netcore.app
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\microsoft.netcore.app
+++MediatR (10.0.1)
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:>570
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:>593
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:>571
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:>595
+++Swashbuckle.AspNetCore (6.2.3)
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:>569
+++launchSettings.json
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\webapi\properties\launchsettings.json
+++appsettings.Development.json
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:c:\users\samet\source\repos\neoapi\webapi\appsettings.development.json
+++Infrastrcuture
+i:{00000000-0000-0000-0000-000000000000}:Infrastrcuture
+++Abstract
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\abstract\
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\entityframework\abstract\
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\entities\abstract\
+++EntityFramework
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\entityframework\
+++IUserRepository.cs
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\abstract\iuserrepository.cs
+++Concrete
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\entityframework\concrete\
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\entities\concrete\
+++Contexts
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\entityframework\contexts\
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:>582
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:>583
+++Domain
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\domain\bin\debug\net6.0\domain.dll
+i:{2f8c8b78-0255-44aa-9b0e-edd24dcebe62}:Domain
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\domain\domain.csproj
+++IEntityRepositoryBase.cs
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\entityframework\abstract\ientityrepositorybase.cs
+++EntityRepositoryBase.cs
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\entityframework\concrete\entityrepositorybase.cs
+++UserRepository.cs
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\entityframework\concrete\userrepository.cs
+++MicrosoftDbContext.cs
+i:{8e054400-269a-41e7-a58f-e2b5aef5d28e}:c:\users\samet\source\repos\neoapi\persistence\entityframework\contexts\microsoftdbcontext.cs
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+++Common
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\
+++Constants
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\constants\
+++Entities
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\entities\
+++Enums
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\enums\
+++Response
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\
+++UserResponseMessages.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\constants\userresponsemessages.cs
+++UserRoles.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\enums\userroles.cs
+++DataResponse.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\dataresponse.cs
+++ErrorDataResponse.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\errordataresponse.cs
+++ErrorResponse.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\errorresponse.cs
+++IDataResponse.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\idataresponse.cs
+++IResponse.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\iresponse.cs
+++Response.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\response.cs
+++SuccessDataResponse.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\successdataresponse.cs
+++SuccessResponse.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\successresponse.cs
+++IEntity.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\entities\abstract\ientity.cs
+++User.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\entities\concrete\user.cs
+++Extensions
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\extensions\
+++ClaimExtensions.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\extensions\claimextensions.cs
+++Handlers
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\handlers\
+++Helpers
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\
+++Jwt
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\jwt\
+++BearerToken.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\jwt\bearertoken.cs
+++IAccessToken.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\jwt\iaccesstoken.cs
+++ITokenHelper.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\jwt\itokenhelper.cs
+++JwtHelper.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\jwt\jwthelper.cs
+++JwtOptions.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\jwt\jwtoptions.cs
+++HashingHelper.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\hashinghelper.cs
+++SecurityKeyHelper.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\securitykeyhelper.cs
+++SigningCredentialsHelper.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\helpers\signingcredentialshelper.cs
+++Utilities
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\utilities\
+++ServiceRegistration.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\serviceregistration.cs
+++Users
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\handlers\users\
+++AutoMapper (11.0.1)
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:>594
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:>592
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:>596
+++Microsoft.Extensions.Configuration.Binder (6.0.0)
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:>647
+++Commands
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\handlers\users\commands\
+++Mapping
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\handlers\users\mapping\
+++Queries
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\handlers\users\queries\
+++RegisterUserCommand.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\handlers\users\commands\registerusercommand.cs
+++UserMapping.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\handlers\users\mapping\usermapping.cs
+++GetUsersQuery.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\handlers\users\queries\getusersquery.cs
+++RegisterUserCommandHandlerBase.cs
+++Program.cs~RF37f55bf.TMP
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{7b17087c-3457-42d7-ae00-4937124e7f5e}:>653
+++NewFolder
+++Dtos
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\dtos\
+++UserDto.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\dtos\userdto.cs
+++IDto.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\dtos\idto.cs
+++ExceptionMiddleware.cs
+i:{4fc7c7af-5201-45c1-923d-9f46a8f3e8e5}:c:\users\samet\source\repos\neoapi\application\extensions\exceptionmiddleware.cs
+++ExceptionMessages.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\constants\exceptionmessages.cs
+++ExceptionResponse.cs
+i:{84f2cc5c-6a77-4968-a927-5a311b4d5782}:c:\users\samet\source\repos\neoapi\domain\common\response\exceptionresponse.cs
